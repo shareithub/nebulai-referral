@@ -3,3 +3,4 @@ asyncio
 numpy
 requests
 rich
+playwright
